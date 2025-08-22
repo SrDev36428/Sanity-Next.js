@@ -4,6 +4,26 @@ Congratulations, you have now installed the Sanity Content Studio, an open-sourc
 
 Now you can do the following things:
 
-- [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
-- [Join the Sanity community](https://www.sanity.io/community/join?utm_source=readme)
-- [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
+### 1. GitSource Clone
+```bash
+git clone https://github.com/SrDev36428/Sanity-Next.js
+```
+
+### 2. dependences Install
+```bash
+cd Sanity-Next
+npm install
+```
+### 3.Running
+```bash
+npm run dev
+```
+### 4.build
+```bash
+npm run build
+```
+
+### 5.deploy
+```bash
+npm run deploy
+```
