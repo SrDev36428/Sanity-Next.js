@@ -30,5 +30,5 @@ npm run deploy
 
 ### Current Review
 ```bash
-  cnke.sanity.studio(http://cnke.sanity.studio/)
+  [cnke.sanity.studio](http://cnke.sanity.studio/)
 ```
